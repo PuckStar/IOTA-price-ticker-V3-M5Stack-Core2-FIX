@@ -20,6 +20,11 @@ IOTA ticker V3 on Youtube: https://www.youtube.com/watch?v=CBe5YHJxLos
 <br>
 <h2>Changelog</h2>
 
+02.03.2024 PuckStar fork</p>
+- Changed in the .ino file "MIOTA" to "IOTA" because it's not called MIOTA anymore</p>
+- Added the file iota1.h because it was missing from the source package</p>
+   <br>
+
 30.12.2021</p>
 - Fix issue with USD/EUR select in Webconfig</p>
 - Add light theme select in Webconfig</p>
