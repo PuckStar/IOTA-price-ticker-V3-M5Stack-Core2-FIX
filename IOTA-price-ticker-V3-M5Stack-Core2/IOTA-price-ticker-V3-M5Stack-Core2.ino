@@ -136,7 +136,7 @@ void loop() {
   if(M5.BtnC.isPressed())  M5.Axp.SetLcdVoltage(3200);
 
   if (count2 >=3000) {
-    printTickerDataIOTA("MIOTA");
+    printTickerDataIOTA("IOTA");
 
     //For the new API, you can use the currency ID or abbreviated name, such as
     //Bitcoin, you can view the letter after Circulating Supply at https://coinmarketcap.com/, it is BTC
@@ -385,7 +385,7 @@ void startWebServer() {
 
     
   }
-  printTickerDataIOTA("MIOTA");  
+  printTickerDataIOTA("IOTA");  
   webServer.begin();
 }
 
