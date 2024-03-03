@@ -13,7 +13,6 @@ IOTA ticker V3 on Youtube: https://www.youtube.com/watch?v=CBe5YHJxLos
 
 + [Add M5Stack to Arduino IDE](#ESP32)
 + [Libraries for Arduino IDE](#libraries)
-+ [Install and flash via esptool](#esptool)
 + [How to use](#info)
 
 * * *
@@ -72,7 +71,7 @@ After the automatic restart, the price ticker connects to your wifi and shows yo
 <br>
 <a name="esptool"></a><h2>Install and flash via esptool</h2>
 <br>
-(in progress)
+PuckStar: I deleted this .bin file because it didn't include the necessary fix of MIOTA => IOTA
 <br>
 <br>
 <a name="reset"></a><h2>Reset stored config</h2>
